@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MyConsent.unity
+    guid: 11edab95804ee9d4fbc7c263d91a553b
+  - enabled: 1
+    path: Assets/Scenes/MySplashScreen.unity
+    guid: a3599f9c0f9472d479648ac1f85ef592
+  - enabled: 1
+    path: Assets/Scenes/MyMainMenu.unity
+    guid: 1a51f51b865120b42ac05b90670a582a
+  - enabled: 1
+    path: Assets/Scenes/ModeSelection.unity
+    guid: f41ba865197109044b650384ac6b521a
+  - enabled: 1
+    path: Assets/Scenes/WeddingDressup.unity
+    guid: e8da680997b70f641a2cb5066dfc1327
+  - enabled: 1
+    path: Assets/Scenes/PartyDressup.unity
+    guid: 83a39ac3454d3724c985790fc9af7338
+  - enabled: 1
+    path: Assets/Scenes/ComparsionMode.unity
+    guid: be0167d5bc55aa940adc5c95ffefda05
   m_configObjects: {}
